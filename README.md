@@ -39,7 +39,7 @@ The datasets that were merged are:
    
 ## Usage
 1. Set up: load required libraries to run the script
-2. Running the script: source(".R")
+2. Running the script: source("https://github.com/Luisa-AT/Course_Project/blob/main/run_analysis.R")
 
 ## Output
 - Tidy dataset in CSV format for additional analysis
